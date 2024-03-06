@@ -1,4 +1,4 @@
-# About
+# About & Contact
 
 Welcome to the Arctik Home Dashboard User Documentation! I'm delighted to introduce you to my project and share with you its mission and the values it stands for.
 
