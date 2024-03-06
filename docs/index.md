@@ -49,3 +49,17 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 	| `Welcome Page`   | :yellow_square:   | Fine Tuning/Edits|
 	| `About`          | :x:               | 		  |
 	| `Contact`        | :x:               |		  |
+
+=== "Planned Pages"
+
+	| Page Name		   | Purpose		   | Notes / Comments |
+	| :--------------: | :---------------: | :--------------: |
+	| `Radarr + Sonnar` | Documentation	   |  Planned	  |
+	| `SabNZBd`		   | Documentation     |  Planned	  |
+	| `Qbittorrent`		   | Documentation     |  Planned |
+	| `Syncthing`		   | Documentation     |  Planned |
+	| `Jellyfin`		   | Documentation     |  Planned |
+	| `Jellyseerr`		   | Documentation     |  Planned |
+	| `Plex Media Server`  | Documentation     |  Planned |
+	| `Tautulli`		   | Documentation     |  Planned |
+	| `Dashy`		   | Documentation     |  Planned	  |
