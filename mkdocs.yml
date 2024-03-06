@@ -20,8 +20,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.prune
-    - navigation.indexes
-    - navigation.sections    
+    - navigation.indexes    
     - navigation.expand
     - navigation.indexes
     - toc.follow
