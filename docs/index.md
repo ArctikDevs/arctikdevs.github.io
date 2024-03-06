@@ -29,8 +29,8 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 | `MeTube`         | :yellow_square:   |
 | `Calibre`        | :yellow_square:   |
 | `Audiobookshelf` | :yellow_square:   |
-| `Linkwarden`     | :yellow_square:   |
-| `Photoprism`     | :yellow_square:   |
+| `Linkwarden`     | :white_check_mark:  |
+| `Photoprism`     | :white_check_mark:  |
 | `Pastebin`       | :x:               |
 | `Password Pusher`| :x:               |
 
