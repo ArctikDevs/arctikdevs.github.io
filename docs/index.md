@@ -30,7 +30,7 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 | `Calibre`        | :yellow_square:      In Progress     |
 | `Audiobookshelf` | :yellow_square:      In Progress     |
 | `Linkwarden`     | :yellow_square:      Partially Done  |
-| `Photoprism`     | :x:                  Not Yet Started |
+| `Photoprism`     | :yellow_square:      Partially Done  |
 | `Pastebin`       | :x:                  Not Yet Started |
 | `Password Pusher`| :x:                  Not Yet Started |
 
