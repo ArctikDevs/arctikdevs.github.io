@@ -23,28 +23,28 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 
 ## Here is a current progress list of pages per application
 
-| Application      | Status                          |
-| :---------:      | :----------------------------------: |
-| `Mealie`         | :yellow_square:  |
-| `MeTube`         | :yellow_square:  |
-| `Calibre`        | :yellow_square:  |
-| `Audiobookshelf` | :yellow_square:  |
-| `Linkwarden`     | :yellow_square:  |
-| `Photoprism`     | :yellow_square:  |
-| `Pastebin`       | :x:              |
-| `Password Pusher`| :x:              |
+| Application      | Status            |
+| :---------:      | :---------------: |
+| `Mealie`         | :yellow_square:   |
+| `MeTube`         | :yellow_square:   |
+| `Calibre`        | :yellow_square:   |
+| `Audiobookshelf` | :yellow_square:   |
+| `Linkwarden`     | :yellow_square:   |
+| `Photoprism`     | :yellow_square:   |
+| `Pastebin`       | :x:               |
+| `Password Pusher`| :x:               |
 
 !!! info "Status Key"
 
 	Please refer to the key below to determine progress.
-	
+
 	:white_check_mark: **Complete or at 80%** |
 	:yellow_square:    **Started / In Progress** |
 	:x:                **Not Started / Minor Work**
 
 ## Here is a current list of all non application related pages
-| Page Name        | Status                          |
-| :---------:      | :----------------------------------: |
+| Page Name        | Status            |
+| :---------:      | :---------------: |
 | `Welcome Page`   | :yellow_square:   |
 | `About`          | :x:               |
 | `Contact`        | :x:               |
