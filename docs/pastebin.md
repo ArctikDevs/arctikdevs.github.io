@@ -58,10 +58,16 @@ By following these steps, you can effectively use Pastebin to share text, code, 
 
 ## Screenshots and Images
 
-![Screenshot](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/vid.gif)
+![Screenshot_1](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/vid.gif)
 
-![Screenshot](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/home.png)
+---
 
-![Screenshot](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/paste.png)
+![Screenshot_2](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/home.png)
 
-![Screenshot](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/fullscreen.png)
+---
+
+![Screenshot_3](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/paste.png)
+
+---
+
+![Screenshot_4](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/fullscreen.png)
