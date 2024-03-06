@@ -26,6 +26,7 @@ theme:
     - search.suggest
     - search.highlight
   icon:
+    logo: simple/snowflake
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
