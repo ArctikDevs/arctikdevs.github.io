@@ -27,7 +27,7 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 	:yellow_square:    **Started / In Progress** |
 	:x:                **Not Started / Minor Work**
 
-**Here is a current progress list - see key :arrow_up: for legend**
+**Here is a current progress list - see key** :arrow_up: **for legend**
 
 === "Applications Tab"
 
