@@ -19,10 +19,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.prune
-    - navigation.indexes    
+    - navigation.prune   
     - navigation.expand
-    - navigation.indexes
+    - toc.integrate
     - toc.follow
     - navigation.top
     - search.suggest
