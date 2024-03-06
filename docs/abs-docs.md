@@ -84,23 +84,29 @@ Both Collections and Playlists:
 ### Creating a Collection or Playlist
 
 **Creating from Library View**:
+
 ![Initial collection](https://www.audiobookshelf.org/guides/collections/1_no_collections.png)
 
 **Creating from Book Details**:
+
 ![Collections from library](https://www.audiobookshelf.org/guides/collections/collections_library.gif)
 
 **Adding Podcast to Playlist**:
+
 ![Add podcast to playlist](https://www.audiobookshelf.org/guides/collections/podcast_add_to_playlist.png)
 
 **Adding to Existing Collection**:
+
 ![Add to existing collection](https://www.audiobookshelf.org/guides/collections/collection_add_to_existing.gif)
 
 ### Editing a Collection or Playlist
 
 **Collections View**:
+
 ![Collections view](https://www.audiobookshelf.org/guides/collections/2_collection_main_view.png)
 
 **Editing Collection Description**:
+
 ![Edit collection description](https://www.audiobookshelf.org/guides/collections/edit_collection.gif)
 
 ### Roadmap Items
