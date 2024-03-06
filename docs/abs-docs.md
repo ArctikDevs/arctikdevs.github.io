@@ -1,8 +1,9 @@
 # Audiobookshelf Documentation
 
+### Features and About Audiobookshelf
+
 Audiobookshelf is a self-hosted audiobook and podcast server.
 
-## Features
 - Fully open-source, including the android & iOS app (in beta)
 - Stream all audio formats on the fly
 - Search and add podcasts to download episodes w/ auto-download
@@ -22,7 +23,7 @@ Audiobookshelf is a self-hosted audiobook and podcast server.
   - Send ebook to device (i.e. Kindle)
 - Open RSS feeds for podcasts and audiobooks
 
-## Adding a Podcast
+### Adding a Podcast
 
 There are two ways to add a podcast to your server:
 
@@ -38,7 +39,7 @@ If you already have files for your podcast, you can manually create a directory 
 
 You can use another program or service to get the podcast files and place them in the directory instead of using the integrated ABS downloader.
 
-## Downloading Podcasts
+### Downloading Podcasts
 There are several ways to download podcast episodes within ABS. If you want to search for files and pick which ones you want to download, you can use the "Find Episodes" button (magnifying glass button circled in blue below). This presents you with a list of files available from the RSS feed that you can download.
 
 ![Find Episodes](https://www.audiobookshelf.org/guides/podcasts/newly_added.png)
@@ -54,7 +55,7 @@ If you would like ABS to automatically check for new episodes to download, you c
 Podcasts marked for download are added to the Download Queue page.
 
 ---
-## Collections and Playlists
+### Collections and Playlists
 
 Collections and playlists are another way to organize individual books and podcast episodes (not podcasts).
 
@@ -68,41 +69,41 @@ Both Collections and Playlists:
 - Cannot contain groups of things (other playlists/collections, series, etc)
 - Have a "Play" button at the top which acts as a "Play All" button
 
-### Collections:
+**Collections**:
 
 - Are Public. Any user with access to the library can see the contents of the collection
 - Can only contain books
 
-### Playlists:
+**Playlists**:
 
 - Are Private. Only the user who created the playlist can see it
 - Can contain books or podcast episodes
 
 *Note: Screenshots are from an install of v2.2.0 in Docker. The interface is still pretty much the same, but some buttons have moved slightly. These changes are noted in the text.*
 
-## Creating a Collection or Playlist
+### Creating a Collection or Playlist
 
-### Creating from Library View:
+**Creating from Library View**:
 ![Initial collection](https://www.audiobookshelf.org/guides/collections/1_no_collections.png)
 
-### Creating from Book Details:
+**Creating from Book Details**:
 ![Collections from library](https://www.audiobookshelf.org/guides/collections/collections_library.gif)
 
-### Adding Podcast to Playlist:
+**Adding Podcast to Playlist**:
 ![Add podcast to playlist](https://www.audiobookshelf.org/guides/collections/podcast_add_to_playlist.png)
 
-### Adding to Existing Collection:
+**Adding to Existing Collection**:
 ![Add to existing collection](https://www.audiobookshelf.org/guides/collections/collection_add_to_existing.gif)
 
-## Editing a Collection or Playlist
+### Editing a Collection or Playlist
 
-### Collections View:
+**Collections View**:
 ![Collections view](https://www.audiobookshelf.org/guides/collections/2_collection_main_view.png)
 
-### Editing Collection Description:
+**Editing Collection Description**:
 ![Edit collection description](https://www.audiobookshelf.org/guides/collections/edit_collection.gif)
 
-## Roadmap Items
+### Roadmap Items
 
 The following items are on the roadmap, in no particular order or expected time to be released:
 - Auto adding new podcast episodes to playlists
