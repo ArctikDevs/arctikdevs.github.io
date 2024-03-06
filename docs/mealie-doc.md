@@ -9,7 +9,7 @@ With Mealie, users can also schedule meals for the week ahead, making it easier 
 Overall, Mealie stands out for its intuitive design, comprehensive feature set, and the convenience it offers to individuals looking to streamline their meal preparation and recipe management tasks.
 
 ---
-##How does Mealie Work?
+### How does Mealie Work?
 
 1. Recipe Management
 Adding Recipes: You can manually input recipes into Mealie, including ingredients, instructions, images, and tags for easy organization. Additionally, Mealie supports automatic recipe import from various websites, simplifying the process of saving your favorite online recipes.
@@ -22,7 +22,7 @@ Multi-User Support: Mealie allows for the creation of multiple user accounts, ma
 Sharing Recipes: You can share recipes with others by providing them access to your Mealie instance or exporting recipes in various formats.
 
 ---
-##Why should you use it?
+### Why should you use it?
 
 There are several reasons why you might consider using Mealie as your recipe manager and meal planner:
 
@@ -41,7 +41,7 @@ Cost-Effectiveness: Mealie is open-source software, which means it's free to use
 Overall, Mealie offers a convenient, efficient, and customizable way to manage your recipes, plan your meals, and streamline your cooking and grocery shopping routine. Whether you're cooking for yourself, your family, or entertaining guests, Mealie can help make the process easier and more enjoyable.
 
 ---
-## How do I Import recipes?
+### How do I Import recipes?
 
 !!! success "YAML? JSON? Huh?"
 
@@ -70,7 +70,7 @@ Save and Finish: Once you're satisfied with the imported recipes and their organ
 By following these steps, you should be able to successfully import your recipes into Mealie and start using the application to manage your culinary creations.
 
 ---
-## Cookbooks and You!
+### Cookbooks and You!
 In Mealie, cookbooks are collections of recipes organized around a specific theme, cuisine, dietary preference, or any other criteria you choose. They provide a convenient way to group related recipes together for easy browsing and meal planning. Here's more information about cookbooks in Mealie:
 
 **Organizational Tool**: Cookbooks serve as an organizational tool within Mealie, allowing you to categorize and group your recipes according to your preferences. You can create cookbooks based on themes such as breakfast, dinner, desserts, vegetarian, gluten-free, or any other category you choose.
@@ -88,7 +88,7 @@ In Mealie, cookbooks are collections of recipes organized around a specific them
 Overall, cookbooks are a valuable feature in Mealie that help you organize, browse, and explore recipes according to your culinary interests and preferences. Whether you're a seasoned chef or a novice cook, cookbooks provide a convenient way to discover new recipes and plan delicious meals.
 
 ---
-##Recipe Organization
+### Recipe Organization
 
 **Organizing Recipes**
 
@@ -133,7 +133,7 @@ filter a cookbook as you'd like.
 
 
 ---
-## Meal Planning with Mealie
+### Meal Planning with Mealie
 
 Meal planning is a great way to save time, reduce food waste, and ensure you're eating balanced meals throughout the week. Mealie provides convenient tools to help you plan your meals effectively.
 
@@ -174,7 +174,7 @@ Meal planning with Mealie can help you streamline your cooking and grocery shopp
 
 
 ---
-## Shopping Lists
+### Shopping Lists
 
 The shopping lists feature is a great way to keep track of what you need to buy for your next meal. You can add items directly to the shopping list or link a recipe and all of its ingredients to track meals during the week.
 
@@ -183,6 +183,6 @@ The shopping lists feature is a great way to keep track of what you need to buy 
 	At this time there isn't a tight integration between meal-plans and shopping lists; however, it's something the developers have planned for the future.
 
 ---
-## Pictures
+### Pictures
 
 ![Stock Photo](https://github.com/mealie-recipes/mealie/raw/mealie-next/docs/docs/assets/img/home_screenshot.png)
