@@ -25,17 +25,19 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 
 | Application      | Status                          |
 | :---------:      | :----------------------------------: |
-| `Mealie`         | :yellow_square:      Partially Done  |
-| `MeTube`         | :yellow_square:      In Progress     |
-| `Calibre`        | :yellow_square:      In Progress     |
-| `Audiobookshelf` | :yellow_square:      In Progress     |
-| `Linkwarden`     | :yellow_square:      Partially Done  |
-| `Photoprism`     | :yellow_square:      Partially Done  |
-| `Pastebin`       | :x:                  Not Yet Started |
-| `Password Pusher`| :x:                  Not Yet Started |
+| `Mealie`         | :yellow_square:  |
+| `MeTube`         | :yellow_square:  |
+| `Calibre`        | :yellow_square:  |
+| `Audiobookshelf` | :yellow_square:  |
+| `Linkwarden`     | :yellow_square:  |
+| `Photoprism`     | :yellow_square:  |
+| `Pastebin`       | :x:              |
+| `Password Pusher`| :x:              |
 
 !!! info "Status Key"
 
+	Please refer to the key below to determine progress.
+	
 	:white_check_mark: **Complete or at 80%** |
 	:yellow_square:    **Started / In Progress** |
 	:x:                **Not Started / Minor Work**
@@ -43,6 +45,6 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 ## Here is a current list of all non application related pages
 | Page Name        | Status                          |
 | :---------:      | :----------------------------------: |
-| `Welcome Page`   | :yellow_square:      In Progress     |
-| `About`          | :x:                  Not Yet Started |
-| `Contact`        | :x:                  Not Yet Started |
+| `Welcome Page`   | :yellow_square:   |
+| `About`          | :x:               |
+| `Contact`        | :x:               |
