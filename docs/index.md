@@ -37,10 +37,10 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 	| `MeTube`         | :yellow_square:   | Needs More Info   |
 	| `Calibre`        | :yellow_square:   | Needs Format Work |
 	| `Audiobookshelf` | :yellow_square:   | Waiting on Dev    |
-	| `Linkwarden`     | :white_check_mark: | Mostly Complete |
-	| `Photoprism`     | :white_check_mark: | Mostly Complete |
-	| `Pastebin`       | :x:               |		   |
-	| `Password Pusher`| :x:               |		   |
+	| `Linkwarden`     | :white_check_mark: | Mostly Complete  |
+	| `Photoprism`     | :white_check_mark: | Mostly Complete  |
+	| `Pastebin`       | :yellow_square:    | 70% Complete	   |
+	| `Password Pusher`| :x:                |		           | 
 
 === "Site Pages (Non App)"
 
