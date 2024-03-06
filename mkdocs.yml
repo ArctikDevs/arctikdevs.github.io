@@ -20,9 +20,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.prune
-    - navigation.indexes 
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.sections    
     - navigation.expand
     - navigation.indexes
