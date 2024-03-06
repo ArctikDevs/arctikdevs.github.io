@@ -47,8 +47,8 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 	| Page Name        | Status            | Notes / Comments |
 	| :---------:      | :---------------: | :--------------: |
 	| `Welcome Page`   | :yellow_square:   | Fine Tuning/Edits|
-	| `About`          | :x:               | 		  |
-	| `Contact`        | :x:               |		  |
+	| `About`          | :yellow_square:   | In Progress	  |
+	| `Contact`        | :yellow_square:   | In Progress      |
 
 === "Planned Pages"
 
