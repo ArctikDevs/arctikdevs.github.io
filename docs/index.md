@@ -20,31 +20,32 @@ Thank you for taking the time to visit and learn more about how I manage my digi
 
 ---
 
-
-## Here is a current progress list of pages per application
-
-| Application      | Status            |
-| :---------:      | :---------------: |
-| `Mealie`         | :yellow_square:   |
-| `MeTube`         | :yellow_square:   |
-| `Calibre`        | :yellow_square:   |
-| `Audiobookshelf` | :yellow_square:   |
-| `Linkwarden`     | :white_check_mark:  |
-| `Photoprism`     | :white_check_mark:  |
-| `Pastebin`       | :x:               |
-| `Password Pusher`| :x:               |
-
 !!! info "Status Key"
-
-	Please refer to the key below to determine progress.
-
+	**Please refer to the key below to determine progress.**
+		
 	:white_check_mark: **Complete or at 80%** |
 	:yellow_square:    **Started / In Progress** |
 	:x:                **Not Started / Minor Work**
 
-## Here is a current list of all non application related pages
-| Page Name        | Status            |
-| :---------:      | :---------------: |
-| `Welcome Page`   | :yellow_square:   |
-| `About`          | :x:               |
-| `Contact`        | :x:               |
+**Here is a current progress list - see key :arrow_up: for legend**
+
+=== "Applications Tab"
+
+	| Application      | Status            | Notes / Comments |
+	| :---------:      | :---------------: | :--------------: |
+	| `Mealie`         | :yellow_square:   | Needs Format Work |
+	| `MeTube`         | :yellow_square:   | Needs More Info   |
+	| `Calibre`        | :yellow_square:   | Needs Format Work |
+	| `Audiobookshelf` | :yellow_square:   | Waiting on Dev    |
+	| `Linkwarden`     | :white_check_mark: | Mostly Complete |
+	| `Photoprism`     | :white_check_mark: | Mostly Complete |
+	| `Pastebin`       | :x:               |		   |
+	| `Password Pusher`| :x:               |		   |
+
+=== "Site Pages (Non App)"
+
+	| Page Name        | Status            | Notes / Comments |
+	| :---------:      | :---------------: | :--------------: |
+	| `Welcome Page`   | :yellow_square:   | Fine Tuning/Edits|
+	| `About`          | :x:               | 		  |
+	| `Contact`        | :x:               |		  |
