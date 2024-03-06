@@ -21,6 +21,11 @@ theme:
     - navigation.path
     - navigation.prune
     - navigation.indexes 
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections    
+    - navigation.expand
+    - navigation.indexes
     - toc.follow
     - navigation.top
     - search.suggest
