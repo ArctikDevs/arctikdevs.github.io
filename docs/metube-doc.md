@@ -1,10 +1,10 @@
 #MeTube Documentation
 
-## MeTube: A GUI for YouTube-dl
+### MeTube: A GUI for YouTube-dl
 
 MeTube is a program that provides a graphical user interface (GUI) for YouTube-dl. Instead of interacting with YouTube-dl solely through the command line, MeTube provides a more user-friendly interface accessible via a web browser.
 
-## How it Works
+### How it Works
 
 1. **Graphical User Interface (GUI)**: MeTube presents users with a visual interface that they can interact with using their web browser. This GUI typically includes options for entering URLs of videos or playlists, selecting download quality and format, and managing downloaded content.
 
@@ -16,13 +16,13 @@ MeTube is a program that provides a graphical user interface (GUI) for YouTube-d
 
 5. **Customization and Features**: MeTube may offer additional features and customization options beyond what YouTube-dl provides on its own. This could include features like batch downloading, video conversion, and integration with other services.
 
-## Ongoing Improvements
+### Ongoing Improvements
 
 We're currently working on implementing a feature that will allow users to quickly access their downloads. Stay tuned for updates as we continue to enhance the functionality and user experience of MeTube.
 
 By combining the power of YouTube-dl with a user-friendly interface accessible through a web browser, MeTube aims to provide a convenient solution for users to download music and videos from various online sources. It simplifies the process for those who prefer a graphical interface while still leveraging the robust capabilities of YouTube-dl for content extraction and downloading.
 
-## Instructions for Downloading Videos
+### Instructions for Downloading Videos
 
 To download a video or playlist using MeTube, follow these steps:
 

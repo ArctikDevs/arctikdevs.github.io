@@ -1,5 +1,7 @@
 # Calibre: E-book Management Software Documentation
 
+### What is Calibre?
+
 Calibre is a free and open-source e-book management software. It's designed to help users organize, convert, and read e-books across various devices. Here are some key features and functionalities of Calibre:
 
 1. **E-book Library Management**: Calibre allows users to organize their e-book collections by author, title, series, and other metadata. It supports a wide range of e-book formats, including EPUB, MOBI, PDF, and more.
@@ -16,12 +18,12 @@ Calibre is a free and open-source e-book management software. It's designed to h
 
 7. **Plugins and Extensions**: Calibre supports plugins and extensions that extend its functionality. Users can install plugins for additional features such as syncing with online e-book services, enhancing conversion options, and more.
 
-## Warning: Copyright and E-book Ownership
+### Warning: Copyright and E-book Ownership
 !!! warning "Copyright & Piracy Notice"
 
 	**Before using Calibre, it's important to understand copyright laws related to e-books. Users should only download, convert, and manage e-books that they own or have the necessary permissions to use. Calibre does not provide access to copyrighted material and does not condone piracy.**
 
-## Compatible E-book Readers
+### Compatible E-book Readers
 
 Some examples of e-book readers that are compatible with Calibre include:
 
