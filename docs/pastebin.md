@@ -1,6 +1,6 @@
 # Pastebin Documentation
 
-![Project_Logo](https://github.com/interaapps/pastefy/raw/master/frontend/src/assets/logo.png)
+![Project_Logo](assets/pastebin/logo.png)
 
 Pastebin applications are virtual clipboards where you can paste text, code, or any type of content and obtain a link to share it with others. It serves as a convenient way to share information online without the need for emailing files or attachments. Here's why people use it and some examples of its usage:
 
@@ -58,16 +58,16 @@ By following these steps, you can effectively use Pastebin to share text, code, 
 
 ## Screenshots and Images
 
-![Screenshot_1](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/vid.gif)
+![Screenshot_1](assets/pastebin/vid.gif)
 
 ---
 
-![Screenshot_2](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/home.png)
+![Screenshot_2](assets/pastebin/home.png)
 
 ---
 
-![Screenshot_3](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/paste.png)
+![Screenshot_3](assets/pastebin/paste.png)
 
 ---
 
-![Screenshot_4](https://github.com/interaapps/pastefy/raw/master/.github/screenshots/fullscreen.png)
+![Screenshot_4](assets/pastebin/fullscreen.png)
